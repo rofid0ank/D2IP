@@ -25,7 +25,7 @@ setup()
   mv 'd2ip.sh' /usr/bin
   echo ''
   # menampilkan keluaran ke terminal
-  echo -e '\033[1;32muntuk menjalankan d2ip ketikkan \033[1;33mbash d2ip.sh'
+  echo -e '\033[1;32muntuk menjalankan d2ip ketikan \033[1;33mbash d2ip.sh'
   echo ''
 }
 # memanggil fungsi setup
